@@ -6,6 +6,8 @@ bin-release/
 
 # Other files and folders
 .settings/
+10x_initial_files/
+MULTIseq/
 
 # Executables
 *.swf
