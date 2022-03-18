@@ -8,6 +8,7 @@ bin-release/
 .settings/
 10x_initial_files/
 MULTIseq/
+tc_ishi.rds
 
 # Executables
 *.swf
